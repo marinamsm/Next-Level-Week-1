@@ -1,0 +1,9 @@
+[submodule "NLW-backend"]
+	path = NLW-backend
+	url = https://github.com/marinamsm/NLW-backend.git
+[submodule "NLW-web"]
+	path = NLW-web
+	url = https://github.com/marinamsm/NLW-web.git
+[submodule "NLW-mobile"]
+	path = NLW-mobile
+	url = https://github.com/marinamsm/NLW-mobile.git
